@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pug": "^2.0.0-beta6",
+    "pug-loader": "^2.3.0"
+  }
+}
